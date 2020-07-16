@@ -37,6 +37,7 @@
 - nick spagnola
 - [Ohad Leshno](https://github.com/ohadleshno)
 - [Mark Bowden](https://github.com/Mb01)
+- [Aniket Kumar](https://github.com/ani4aniket)
 - [Assem Yeskabyl](https://github.com/yesass)
 - [Rohan Sakhuja](https://github.com/RohanSakhuja)
 - [Rahul Singh(LEO)](https://github.com/Leo5661)
